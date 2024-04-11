@@ -143,6 +143,10 @@
         margin: 25px 0px;
     }
 
+    .team {
+        max-width: 1000px;
+    }
+
     .left-space {
         padding-left: 0;
     }
