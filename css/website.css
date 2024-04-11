@@ -109,6 +109,10 @@
     justify-content: center;
 }
 
+.subheader-info {
+    font-weight: 100;
+}
+
 .header-project {
     padding: 5rem 0rem 0rem 0rem;
 }
@@ -302,10 +306,25 @@ hr {
     padding-top: 10px;
 }
 
+.btn-header {
+    /* same as h4 */
+    font-size: 1.5rem;
+    color: var(--dark);
+}
+
+.btn-header:hover {
+    color: var(--text-color);
+    transition: 0.3s;
+}
+
 .btn-large {
     /* same as h3 */
     font-size: 2rem;
     height: 55px;
+}
+
+.btn-spacing-top {
+    margin-top: var(--space);
 }
 
 /* FOOTER */
