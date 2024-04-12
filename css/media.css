@@ -173,6 +173,7 @@
 
     .user-persona img {
         margin-top: 0;
+        width: 100%;
     }
 }
 
@@ -188,10 +189,6 @@
 
     .about-mobile {
         width: 75%;
-    }
-
-    .user-persona img {
-        width: 100%;
     }
     
     /* .right-space {
