@@ -150,6 +150,10 @@
     .left-space {
         padding-left: 0;
     }
+
+    .part-width {
+        width: 100%;
+    }
 }
 
 @media (max-width: 800px) {
