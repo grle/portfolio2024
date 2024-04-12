@@ -202,13 +202,26 @@
     width: 50%;
 }
 
+.flex-text {
+    padding-top: var(--small-space);
+}
+
 .flex-center {
     justify-content: center;
 }
 
-
 .row-reverse {
     flex-direction: row-reverse;
+}
+
+/* FLEX IMAGES */
+
+.seachange-card {
+    width: 300px;
+}
+
+.coppa-img {
+    width: 200px;
 }
 
 /* ABOUT */

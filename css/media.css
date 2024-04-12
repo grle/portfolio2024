@@ -125,9 +125,17 @@
         flex-direction: column;
     }
 
-    .flex-img {
+    .flex-img, .seachange-card {
         margin-top: var(--small-space);
         width: 100%;
+    }
+
+    .coppa-img {
+        padding-bottom: var(--small-space);
+    }
+
+    .flex-text {
+        padding-top: 0;
     }
 
     .grid {
@@ -186,7 +194,5 @@
         max-width: 300px;
         margin: auto;
     } */
-
-    
 
 }
