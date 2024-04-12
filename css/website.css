@@ -224,6 +224,24 @@
     width: 200px;
 }
 
+.user-persona {
+    padding: var(--small-space);
+    background-color: var(--grey);
+    margin: var(--padding) 0;
+}
+
+.user-persona img {
+    width: 400px;
+}
+
+.user-persona div {
+    padding-top: var(--padding);
+}
+
+.user-persona ul {
+    font-size: 1rem;
+}
+
 /* ABOUT */
 .about-mobile {
     display: none;

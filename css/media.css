@@ -162,6 +162,18 @@
     .part-width {
         width: 100%;
     }
+
+    .user-persona {
+        max-width: 475px;
+    }
+
+    .user-persona h4 {
+        padding-top: var(--small-space);
+    }
+
+    .user-persona img {
+        margin-top: 0;
+    }
 }
 
 @media (max-width: 800px) {
@@ -177,22 +189,12 @@
     .about-mobile {
         width: 75%;
     }
+
+    .user-persona img {
+        width: 100%;
+    }
     
     /* .right-space {
         padding-right: 0;
     } */
-}
-
-@media (max-width: 570px) {
-
-    /* .spacing-all {
-        padding: var(--small-space);
-    }
-
-    .grid-col {
-        grid-template-columns: 1fr;
-        max-width: 300px;
-        margin: auto;
-    } */
-
 }
