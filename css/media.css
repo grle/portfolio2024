@@ -175,6 +175,8 @@
     .about-mobile {
         width: 75%;
     }
+
+
     
     /* .right-space {
         padding-right: 0;
@@ -185,6 +187,10 @@
 
     .header-title {
         font-size: 4rem;
+    }
+
+    h2 {
+        font-size: 2rem;
     }
 
 }
