@@ -15,3 +15,11 @@ function toggleMenu() {
     boolMenu = false;
   }
 }
+
+// Close menu
+function closeMenu() {
+  let ham = document.getElementById("hamburger-1");
+  ham.classList.toggle("is-active");
+  mobile[0].classList.remove("visibility");
+  boolMenu = false;
+}
