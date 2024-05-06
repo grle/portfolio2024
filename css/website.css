@@ -90,6 +90,10 @@
     scroll-behavior: smooth;
 }
 
+#work {
+    overflow: hidden;
+}
+
 /* PICTURE BACKGROUND */
 .pic-bg {
     background-position: center;
@@ -125,7 +129,7 @@
 }
 
 .header-seachange {
-    background-image: url("../img/projects/1_seachange/seachange-header-large.png");
+    background-image: url("../img/projects/1_seachange/seachange-header.png");
 }
 
 .header-clearviction {
