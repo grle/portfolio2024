@@ -37,7 +37,8 @@ h1 {
 
 h2,
 h3,
-h4 {
+h4,
+h5 {
   font-family: 'Lora', serif;
   line-height: 1.5;
   /* font-weight: 700; */
@@ -59,6 +60,12 @@ h3 {
 h4 {
   font-size: 1.5rem;
   font-weight: 500;
+}
+
+h5 {
+  font-size: 1.3rem;
+  font-weight: 500;
+  color: var(--dark);
 }
 
 p, ul {
