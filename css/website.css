@@ -92,6 +92,8 @@
 
 #work {
     overflow: hidden;
+    max-width: 2000px;
+    margin: auto;
 }
 
 /* PICTURE BACKGROUND */
